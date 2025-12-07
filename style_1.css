@@ -1,0 +1,34 @@
+body {
+    font-family: sans-serif;
+    background-color: #f02Ff5;
+    margin: 0;
+    padding: 0;
+    direction: rtl;
+}
+
+header {
+    background-color: #0078d7;
+    color: white;
+    text-align: center;
+    padding: 40px 0;
+}
+
+section#about {
+    max-width: 600px;
+    margin: 40px auto;
+    background-color: white;
+    padding: 20px 30px;
+    border-radius: 12px;
+    box-shadow: 8px 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+section#about h2 {
+    color: #0078d7;
+    text-align: center;
+}
+
+section#about p {
+    line-height: 1.8;
+    font-size: 18px;
+    text-align: justify;
+}
